@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=SHIFT_JIS">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 9.0.0.0 for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE></TITLE>
+<STYLE TYPE="text/css">
+<!--
+BODY{
+scrollbar-base-color:#ffffff;
+scrollbar-arrow-color:#0080c0;
+scrollbar-shadow-color:#ffffff;
+scrollbar-darkshadow-color:#0080c0;
+scrollbar-3dlight-color:#0080c0;
+scrollbar-highlight-color:#ffffff;
+scrollbar-track-color:#ffffff;
+}-->
+
+</style>
+<style type="text/css"> <!--
+a{ text-decoration:none; } a:link{ color:#33cc66; }
+a:active{ color:#33cc66; } a:visited{ color:#33cc66; }
+a:hover{ color:#33cc66;text-decoration:underline; } -->
+</style>
+<STYLE TYPE="text/css"> 
+<!-- 
+
+P { line-height: 1.2em; } 
+
+-->
+</STYLE>
+
+</HEAD>
+<BODY text="#999999" bgcolor="#ffffff" link="#33cc66" vlink="#33cc66" alink="#99ff00" style="background-image : url(star.jpg);background-attachment : fixed;background-position : center 98%;background-repeat : no-repeat;">
+<P align="left"><FONT size="-1" color="#5badff" face="AR Pペン行楷書体M"><BR>
+Works Menu</FONT><FONT size="-1"><BR>
+<BR>
+<BR>
+こちらにメニューが出ます。<BR>
+←のリンクから行き先を選んで下さいませ。<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<A href="top.html" target="_top"><FONT size="-1" face="AR Pペン行楷書体M">→Topに戻る</FONT></A></FONT></P>
+</BODY>
+</HTML>
